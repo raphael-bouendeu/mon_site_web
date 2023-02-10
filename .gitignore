@@ -3,4 +3,5 @@ tmp/todo.txt
 temp/**
 *temp
 test clone
+*.xml
 
